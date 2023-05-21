@@ -1,5 +1,7 @@
 # SemanticSegmentation
 
+![image](https://github.com/MrDexxter/SemanticSegmentation/assets/97404986/9f61c210-bca4-4768-8a6a-287099c7a8fa)
+
 ## Introduction
 This repository contains a Python implementation of semantic segmentation on landscape images using U-Net and DeepLabV3 models. The goal of this project is to classify each pixel in the landscape image into a certain class, which aids in understanding the image at a much lower level, pixel by pixel.
 
